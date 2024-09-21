@@ -54,13 +54,15 @@ I am Batman <br><br>
   <img src='https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white' alt='Keras'/>
   <img src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' alt='Tableau'/>
 </p>
+
 ### Language
 <p float="left">
   <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' alt='C++'/>
   <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' alt='Python'/>
 </p>
-<img src='https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white' alt='GEMINI'/>
-  <img src='https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white' alt='ChatGPT'/>
+<!--<img src='https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white' alt='GEMINI'/>
+  <img src='https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white' alt='ChatGPT'/>-->
+  
 ### Prod
 <p float='left'>
   <img src='https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white' alt='Kibana'/>
