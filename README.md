@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Read my aticles at ![image](https://github.com/user-attachments/assets/d0ecbe4f-6a18-4201-8bc2-2c78d86ccf57): \href{molgorithmo.medium.com}{Molgorithm Medium}
+
+
 <!--
 **molgorithmo/molgorithmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
