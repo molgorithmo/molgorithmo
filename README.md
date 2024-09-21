@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Read my aticles at ![image](https://github.com/user-attachments/assets/d0ecbe4f-6a18-4201-8bc2-2c78d86ccf57): \href{molgorithmo.medium.com}{Molgorithm Medium}
+Read my aticles at ![image](https://github.com/user-attachments/assets/d0ecbe4f-6a18-4201-8bc2-2c78d86ccf57): [Medium]([url](https://molgorithm.medium.com/))
 
 
 <!--
