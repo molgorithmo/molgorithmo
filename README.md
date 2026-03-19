@@ -18,9 +18,6 @@ RAGs & LLMs<br><br>
 Advance deep learning systems—from model design to deployment. <br>
 The inner workings of Transformers and how they’re shaping the future of AI 🤖.<br><br>
 
-⚡ Fun fact: <br>
-I am Batman <br><br>
-
 ## Let's connect
 <p float="left">
   <a href='https://linkedin.com/in/mohitsharmax'>
